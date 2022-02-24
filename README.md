@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenHareendra
 - 👀 I’m interested in JAVA, Android, JavaScript, TypeScript, C, C++ etc projects 
-- 🌱 I’m currently an undergraduate & a Release Engineer(DevOps) at hsenid Software International 
+- 🌱 I’m currently an undergraduate & a Release Engineer at hsenid Software International 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 Reach me on on LinkedIn, : Naveen Warnakulasuriya
 
