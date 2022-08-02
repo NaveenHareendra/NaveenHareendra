@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenHareendra
 - 👀 
-- 🌱 I’m currently an undergraduate & a Trainee Build Engineer at hsenid Software International 
+- 🌱 I’m currently an undergraduate & a Trainee Build Engineer 
 - 📫 Reach me on on LinkedIn, : Naveen Warnakulasuriya
 
 <!---
