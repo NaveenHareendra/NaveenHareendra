@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenHareendra
 - 👀 
-- 🌱 
+- 🌱 Involving in engineering and sciences are my main thing
 - 📫 Reach me on on LinkedIn, : Naveen Warnakulasuriya
 
 <!---
