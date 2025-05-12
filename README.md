@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaveenHareendra
-- 👀 A problem solver
+- 👀 I'm a problem solver
 - 🌱 Involving in engineering and sciences are my main thing
-- 📫 Reach me on on LinkedIn, : Naveen Warnakulasuriya
+- 📫 Reach me on on LinkedIn : Naveen Warnakulasuriya
 
 <!---
 NaveenHareendra/NaveenHareendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
