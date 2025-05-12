@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaveenHareendra
-- 👀 
+- 👀 A problem solver
 - 🌱 Involving in engineering and sciences are my main thing
 - 📫 Reach me on on LinkedIn, : Naveen Warnakulasuriya
 
